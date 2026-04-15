@@ -1,0 +1,9 @@
+requests
+python-dotenv
+pandas
+openai
+pydantic
+sqlalchemy
+playwright # useful if we build our own headless scraper
+beautifulsoup4
+feedparser # Used for free Nitter RSS scraping

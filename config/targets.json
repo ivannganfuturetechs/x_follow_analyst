@@ -1,0 +1,44 @@
+[
+  {
+    "handle": "BillAckman",
+    "name": "Bill Ackman",
+    "category": "Activist Investor",
+    "description": "CEO Pershing Square. Known for detailed fundamental analysis and activist campaigns.",
+    "baseline_views": 1000000
+  },
+  {
+    "handle": "michaeljburry",
+    "name": "Michael Burry",
+    "category": "Value/Macro Investor",
+    "description": "Scion Asset Management. Famous for Big Short.",
+    "baseline_views": 500000
+  },
+  {
+    "handle": "RayDalio",
+    "name": "Ray Dalio",
+    "category": "Macro Investor",
+    "description": "Founder Bridgewater Associates. Macro trends and cycles.",
+    "baseline_views": 400000
+  },
+  {
+    "handle": "muddywatersre",
+    "name": "Muddy Waters Research",
+    "category": "Short Seller",
+    "description": "Due diligence based short seller focusing on accounting fraud.",
+    "baseline_views": 250000
+  },
+  {
+    "handle": "HindenburgRes",
+    "name": "Hindenburg Research",
+    "category": "Short Seller",
+    "description": "Forensic financial research and short selling.",
+    "baseline_views": 300000
+  },
+  {
+    "handle": "CitronResearch",
+    "name": "Citron Research",
+    "category": "Short Seller",
+    "description": "Short seller reports.",
+    "baseline_views": 150000
+  }
+]
